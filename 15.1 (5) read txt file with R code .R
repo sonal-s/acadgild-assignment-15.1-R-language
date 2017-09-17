@@ -1,0 +1,1 @@
+mydata<-read.table("/Users/sonalsingh/Desktop/15.txt",header=TRUE)

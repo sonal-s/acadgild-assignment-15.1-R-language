@@ -1,0 +1,1 @@
+mydata<-read.xlsx("/Users/sonalsingh/Desktop/15.1.xlsx",1)
